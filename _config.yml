@@ -18,15 +18,6 @@ cover_color:
 blog_button:
     title: Blog
 
-# Navigation buttons in the front page.
-#nav:
-#    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
-
-# Pagination
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "page/:num/"
 
 # Comment
 comment:
