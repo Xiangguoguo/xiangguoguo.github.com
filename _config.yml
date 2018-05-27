@@ -16,5 +16,5 @@ paginate: 10
 paginate_path: "page/:num/"
 
 comment:
-    disqus: xiang
+    disqus: xiang-1
 
