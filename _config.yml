@@ -17,5 +17,4 @@ paginate_path: "page/:num/"
 
 comment:
     disqus: xiang
-    # duoshuo: 
 
